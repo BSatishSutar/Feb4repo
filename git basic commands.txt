@@ -1,0 +1,32 @@
+git init: Initializes a new Git repository in the current directory.
+
+git clone <repository-url>: Clones an existing repository from a remote server to your local machine.
+
+git add <file-or-directory-name>: Adds one or more files or directories to the Git staging area.
+
+git commit -m "<commit-message>": Commits all changes in the staging area to the repository with a descriptive message.
+
+git push <remote-name> <branch-name>: Pushes changes from a local branch to a remote branch on a remote server.
+
+git pull <remote-name> <branch-name>: Downloads changes from a remote branch to a local branch and updates it.
+
+git branch <branch-name>: Creates a new branch with the specified name.
+
+git checkout <branch-name>: Switches to an existing branch.
+
+git merge <branch-name>: Merges changes from one branch into the current branch.
+
+git status: Shows the current status of the repository, including changes in the working directory and the staging area.
+
+These commands should provide you with a basic understanding of how Git works, and you can use them to start working with Git effectively.
+
+
+
+
+Satish Sutar
+can you export above commands in a file to my email address?
+I'm sorry, I am a text-based AI language model and do not have the capability to send emails. However, you can easily copy the text above and paste it into a text file or any other document, then save it and email that file as an attachment.
+
+
+
+
